@@ -44,7 +44,7 @@ const ballotCounter = () => {
         }
         votesSelector[value.choice].totalVotes++;
     }
-    console.log(votesSelector);
+    fs.writeFileSync('./logs/votes-labeled.log', JSON.stringify(votesSelector, null, 2));
     return votesSelector;
 }
 

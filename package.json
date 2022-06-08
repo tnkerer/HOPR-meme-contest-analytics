@@ -1,7 +1,6 @@
 {
   "name": "hopr-meme-votes",
   "version": "1.0.0",
-  "main": "index.js",
   "author": "menezesphill",
   "license": "MIT",
   "dependencies": {

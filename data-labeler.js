@@ -112,6 +112,12 @@ const hoprChecker = async (skip) => {
 
 hoprChecker(process.env.SKIP_HOPR_RUN);
 
+// Write logs from ballotCounter
+
+const { ballotCounter } = require('./utils/votes-aggroupment');
+
+ballotCounter();
+
 
 
     

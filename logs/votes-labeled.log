@@ -1,0 +1,50 @@
+{
+  "1": {
+    "sybilVotes": 132,
+    "hoprVotes": 49,
+    "newParticipantVotes": 10,
+    "totalVotes": 191
+  },
+  "2": {
+    "sybilVotes": 1,
+    "hoprVotes": 8,
+    "newParticipantVotes": 3,
+    "totalVotes": 11
+  },
+  "3": {
+    "sybilVotes": 266,
+    "hoprVotes": 35,
+    "newParticipantVotes": 6,
+    "totalVotes": 307
+  },
+  "4": {
+    "sybilVotes": 105,
+    "hoprVotes": 24,
+    "newParticipantVotes": 6,
+    "totalVotes": 135
+  },
+  "5": {
+    "sybilVotes": 2,
+    "hoprVotes": 17,
+    "newParticipantVotes": 1,
+    "totalVotes": 20
+  },
+  "6": {
+    "sybilVotes": 152,
+    "hoprVotes": 101,
+    "newParticipantVotes": 8,
+    "totalVotes": 254
+  },
+  "7": {
+    "sybilVotes": 1,
+    "hoprVotes": 15,
+    "newParticipantVotes": 1,
+    "totalVotes": 17
+  },
+  "8": {
+    "sybilVotes": 2,
+    "hoprVotes": 27,
+    "newParticipantVotes": 0,
+    "totalVotes": 29
+  }
+}
