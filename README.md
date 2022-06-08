@@ -1,6 +1,6 @@
 # 🦗 HOPR Meme Contest Analysis
 
-Scripts to verify voters eligibility for the HOPR Association.
+Scripts to verify voters eligibility for the HOPR Meme Contest.
 
 ### 🚨 Overview
 
